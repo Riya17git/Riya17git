@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Riya17git](https://github.com/Riya17git)
 
-- 📫 How to reach me **29riyashah@gmail.com**
+- 📫 How to reach me **shah08.riya@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
