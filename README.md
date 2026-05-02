@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Riya! </h1>
-<h3 align="center">Machine Learning Engineer | Data Scientist | AI Enthusiast </h3>
+<h3 align="center">🤖 Machine Learning Engineer | 🧠 Data Scientist | 🌐 AI Enthusiast </h3>
 <h3 align="center">
 Machine Learning Engineer and Data Science enthusiast focused on building scalable AI solutions. Experienced in deep learning, time series forecasting, and end-to-end ML pipelines, with a strong interest in applying AI to real-world problems.
 </h3>
