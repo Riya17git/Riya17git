@@ -31,26 +31,48 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
+
+<p align="left">
+
+<!-- Row 1 -->
 <img src="https://img.shields.io/badge/PyTorch-red?style=for-the-badge&logo=pytorch"/>
+&nbsp;
 <img src="https://img.shields.io/badge/TensorFlow-orange?style=for-the-badge&logo=tensorflow"/>
+&nbsp;
 <img src="https://img.shields.io/badge/Scikit--Learn-blue?style=for-the-badge&logo=scikit-learn"/>
+&nbsp;
 <img src="https://img.shields.io/badge/OpenCV-black?style=for-the-badge&logo=opencv"/>
+&nbsp;
 <img src="https://img.shields.io/badge/Pandas-purple?style=for-the-badge&logo=pandas"/>
+
+<br><br>
+
+<!-- Row 2 -->
 <img src="https://img.shields.io/badge/Seaborn-blue?style=for-the-badge"/>
+&nbsp;
 <img src="https://img.shields.io/badge/Chart.js-F5788D?style=for-the-badge&logo=chartdotjs"/>
+&nbsp;
 <img src="https://img.shields.io/badge/D3.js-orange?style=for-the-badge&logo=d3.js"/>
+&nbsp;
 <img src="https://img.shields.io/badge/AWS-black?style=for-the-badge&logo=amazonaws"/>
+&nbsp;
 <img src="https://img.shields.io/badge/GCP-blue?style=for-the-badge&logo=googlecloud"/>
-<img src="https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker"/>
-<img src="https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git"/>
+
+<br><br>
+
+<!-- Row 3 -->
 <img src="https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql"/>
+&nbsp;
 <img src="https://img.shields.io/badge/PostgreSQL-blue?style=for-the-badge&logo=postgresql"/>
+&nbsp;
 <img src="https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=mongodb"/>
-<img src="https://img.shields.io/badge/MS_SQL-red?style=for-the-badge&logo=microsoftsqlserver"/>
-<img src="https://img.shields.io/badge/Grafana-orange?style=for-the-badge&logo=grafana"/>
-<img src="https://img.shields.io/badge/Hive-yellow?style=for-the-badge&logo=apachehive"/>
-<img src="https://img.shields.io/badge/Matlab-orange?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Selenium-green?style=for-the-badge&logo=selenium"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git"/>
+
+</p>
+
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=riya17git&show_icons=true&locale=en&layout=compact" alt="riya17git" /></p>
 
