@@ -45,8 +45,6 @@
 &nbsp;
 <img src="https://img.shields.io/badge/Pandas-purple?style=for-the-badge&logo=pandas"/>
 
-<br><br>
-
 <!-- Row 2 -->
 <img src="https://img.shields.io/badge/Seaborn-blue?style=for-the-badge"/>
 &nbsp;
@@ -57,8 +55,6 @@
 <img src="https://img.shields.io/badge/AWS-black?style=for-the-badge&logo=amazonaws"/>
 &nbsp;
 <img src="https://img.shields.io/badge/GCP-blue?style=for-the-badge&logo=googlecloud"/>
-
-<br><br>
 
 <!-- Row 3 -->
 <img src="https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql"/>
